@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+title: Nich French
+description: music stuff
+logo: nichfrench.png
+show_downloads: false
+*/google_analytics: [Your Google Analytics tracking ID]
